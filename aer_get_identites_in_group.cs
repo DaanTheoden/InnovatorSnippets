@@ -4,7 +4,8 @@
 // [METHOD]: aer_get_identites_in_group.cs
 // ---------------------------------------------------------------------------------------
 // [DESCRIPTION]:
-// Generic, reusable code to get all users in a group.
+// Generic, reusable code to get all users in a group. Implements trick to use functions
+// inside Aras Innovator server methods.
 // ---------------------------------------------------------------------------------------
 // [CHANGES]:
 // REF NO       DATE            WHO             DETAIL
