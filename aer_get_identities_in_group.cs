@@ -1,7 +1,7 @@
 //****************************************************************************************
 // [AUTHOR]: SOFTWERK: D. Theoden
 // [CREATED ON]: 2024-01-18
-// [METHOD]: aer_get_identites_in_group.cs
+// [METHOD]: aer_get_identities_in_group.cs
 // ---------------------------------------------------------------------------------------
 // [DESCRIPTION]:
 // Generic, reusable code to get all users in a group. Implements trick to use functions
